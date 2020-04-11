@@ -1,7 +1,7 @@
 module.exports = {
   rules: {
-    'top-level-items': ['error', { items: ['src'] }],
-    'max-line-count': ['error', { js: 200 }],
+    'top-level-items': ['error', { items: ['CHANGELOG.md', 'README.md', 'src', '.editorconfig'] }],
   },
+  ignore: ['*.md'],
+  pattern: ['**'],
 };
-´
