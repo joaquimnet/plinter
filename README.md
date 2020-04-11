@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> A project linter for your project.
+> A linter for your project.
 
 ### 🏠 [Homepage](https://github.com/joaquimnet/plinter#readme)
 
