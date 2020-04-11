@@ -6,8 +6,19 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint . && plinter"
   },
+  "keywords": [
+    "lint",
+    "linter",
+    "project"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquimnet/plinter.git"
+  },
+  "homepage": "https://github.com/joaquimnet/plinter#readme",
+  "bugs": "https://github.com/joaquimnet/plinter/issues",
   "devDependencies": {
     "@types/jest": "^25.2.1",
     "@types/node": "^13.11.1",
